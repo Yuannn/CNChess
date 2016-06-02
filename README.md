@@ -58,10 +58,3 @@ Alpha-Beta剪枝算法 +重复深化	  0.032	  0.046	  0.156	  0.765	  7.313
 CNChess目前全部内容由Yuannn完成于2015年10月，于2016年6月2日开源于github。欢迎各位就程序与算法改进提出意见
 本人邮箱是ikari_genn@outlook.com
 CNChess由于是作为一个个人兴趣产生的研究性质的项目，并未提供任何有关界面的代码与资源
-
-
-dog | bird | cat
-----|------|----
-foo | foo  | foo
-bar | bar  | bar
-baz | baz  | baz
