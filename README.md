@@ -19,6 +19,8 @@ Alphabeta_TTEngine | 应用置换表的Alpha-Beta剪枝算法
 IDAlphabetaEngine | 应用迭代深化的Alpha-Beta剪枝算法 
 PVS_Engine | PVS（主要变例）搜索算法   
 
+![](https://raw.githubusercontent.com/Yuannn/CNChess/master/UML-Diagram/Sequence%20Diagram.jpg)
+
 程序对象执行交互顺序参考文件“序列图.png”
 
 
