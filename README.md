@@ -1,6 +1,6 @@
 # CNChess
 
-关于CNChess/n\n
+关于CNChess
 CNChess是一个中国象棋人机博弈程序，主要探究如何使计算机在棋类博弈中实现对人类棋手走步的正确反应。
 
 
