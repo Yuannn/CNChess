@@ -1,4 +1,4 @@
-SearchEngine  -基类
+SearchEngine  -算法基类
 
 NegamaxEngine -负极大值算法
 
