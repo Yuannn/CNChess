@@ -21,8 +21,6 @@ PVS_Engine | PVS（主要变例）搜索算法
 
 ![](https://raw.githubusercontent.com/Yuannn/CNChess/master/UML-Diagram/Sequence%20Diagram.jpg)
 
-程序对象执行交互顺序参考文件“序列图.png”
-
 
 #### 关于测试
 各种算法在不同深度下开局走一步所处理节点数/步
